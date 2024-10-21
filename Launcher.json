@@ -1,7 +1,7 @@
 {   
 	"Version": "1.00",
 	"FileList":"https://github.com/devberte/Dayz/blob/main/Launcher.json",
-	"DownloadUpdate": "http://192.168.1.141:8090/ClientGame/",		
+	"DownloadUpdate": "http://dayzbrowz.duckdns.org:8090/ClientGame/",		
 	"News": [
 		"https://spard2.github.io/dayzupdate/News/0.png",
 		"https://spard2.github.io/dayzupdate/News/1.png",
