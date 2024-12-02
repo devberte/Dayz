@@ -3,6 +3,7 @@
 	"FileList":"http://dayzbrowz.duckdns.org:8090/UPDATE/filelist.json",
 	"DownloadUpdate": "http://dayzbrowz.duckdns.org:8090/ClientGame/",		
 	"News": [
+		"http://dayzbrowz.duckdns.org:8090/1.mp4",
 		"https://spard2.github.io/dayzupdate/News/0.png",
 		"https://spard2.github.io/dayzupdate/News/1.png",
 		"https://spard2.github.io/dayzupdate/News/2.png"
