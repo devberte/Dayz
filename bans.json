@@ -1,4 +1,4 @@
 {
-    "banned_ips": ["2804:d41:ef33:a400:d842:21c4:45f3:2dd2", "10.0.0.2"],
-    "banned_hids": ["00E01E8733FB", "abcdef1234567890"]
+    "banned_ips": ["", ""],
+    "banned_hids": ["", ""]
 }
