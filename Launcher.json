@@ -1,7 +1,7 @@
 {   
 	"Version": "1.00",
-	"FileList":"http://dayzbrowz.duckdns.org:8090/UPDATE/filelist.json",
-	"DownloadUpdate": "http://dayzbrowz.duckdns.org:8090/ClientGame/",		
+	"FileList":"http://192.168.1.141:8090/LAUNCHER/DAYZ/UPDATE/filelist.JSON",
+	"DownloadUpdate": "http://192.168.1.141:8090/LAUNCHER/DAYZ/UPDATE/",		
 	"News": [
 		"https://raw.githubusercontent.com/devberte/News/refs/heads/main/Walking.gif",
 		"https://raw.githubusercontent.com/Spard2/dayzupdate/refs/heads/master/News/0.png",
