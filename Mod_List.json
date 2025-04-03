@@ -1,0 +1,20 @@
+{
+    "Mods_Chernarus": [
+        "@CF",
+        "@TheLastOfUsPack",
+        "@UltimaResistenciaCherno",
+		"@VPPAdminTools"
+    ],
+    "Mod_TheLastofUs": [
+        "@CF",
+        "@TheLastOfUsPack",
+        "@UltimaResistenciaCherno",
+		"@VPPAdminTools"
+    ],
+	"Mod_BattleRoyale": [
+        "@CF",
+        "@TheLastOfUsPack",
+        "@UltimaResistenciaCherno",
+		"@VPPAdminTools"
+    ]
+}
