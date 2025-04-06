@@ -2,5 +2,9 @@
   {
     "FileName": "Mod_Chernarus\\@Bitterroot",
     "IsDirectory": true
+  },
+  {
+    "FileName": "Mod_Chernarus\\@Teste",
+    "IsDirectory": true
   }
 ]
