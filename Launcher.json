@@ -1,7 +1,7 @@
 {   
 	"Version": "1.00",
 	"FileList":"http://192.168.1.141:8090/LAUNCHER/DAYZ/UPDATE/filelist.JSON",
-	"FileDelete":"http://192.168.1.141:8090/GeradorFile/filedelete.json",
+	"FileDelete":"https://github.com/devberte/Dayz/blob/main/filedelete.json",
 	"DownloadUpdate": "http://192.168.1.141:8090/LAUNCHER/DAYZ/UPDATE/",		
 	"News": [
 		"https://raw.githubusercontent.com/devberte/News/refs/heads/main/Walking.gif",
