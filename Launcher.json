@@ -1,5 +1,5 @@
 {   
-	"Version": "1.00",
+	"Version": "1.01",
 	"FileList":"http://192.168.1.141:8090/LAUNCHER/DAYZ/UPDATE/filelist.JSON",
 	"FileDelete":"https://github.com/devberte/Dayz/blob/main/filedelete.json",
 	"DownloadUpdate": "http://192.168.1.141:8090/LAUNCHER/DAYZ/UPDATE/",		
