@@ -1,6 +1,10 @@
 [
   {
-    "FileName": "Mod_Chernarus\\@Bitterroot",
+    "FileName": "Mod_Chernarus\\@Bitterroot\\addons\\4Kplate.pbo",
+    "IsDirectory": true
+  },
+  {
+    "FileName": "Mod_Chernarus\\@Bitterroot\\addons\\4Kplate.pbo.UltimaResistencia.bisign",
     "IsDirectory": true
   }
 ]
