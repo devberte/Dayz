@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "FileName": "Mod_Chernarus\\@Bitterroot\\meta.cpp",
     "MD5": "97ccac4bba7946a0790ad6731969e56c"
@@ -1356,7 +1356,7 @@
     "MD5": "170b0a01f1abfd48c72729be52f251f7"
   },
   {
-    "FileName": "Mod_Chernarus\\@Bitterroot",
-    "MD5": "170b0a01f1abfd48c72729be52f251f7"
+    "FileName": "Mod_Chernarus\\@Bitterroot1",
+    "IsDirectory": true
   }
 ]
