@@ -1354,5 +1354,9 @@
   {
     "FileName": "Mod_Chernarus\\@Bitterroot\\mpmissions\\empty.Bitterroot\\env\\zombie_territories.xml",
     "MD5": "170b0a01f1abfd48c72729be52f251f7"
+  },
+  {
+    "FileName": "Mod_Chernarus\\@Bitterroot",
+    "MD5": "170b0a01f1abfd48c72729be52f251f7"
   }
 ]
